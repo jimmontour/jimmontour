@@ -39,6 +39,7 @@
 
 ### 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Test post](https://dev.to/jimmontour/test-post-1pkd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jimmontour.com)
