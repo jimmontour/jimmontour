@@ -7,11 +7,15 @@
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I host a years New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
+- ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+
+[![Spotify](https://novatorem-three-alpha.vercel.app//api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 
 ### Connect with me:
 
