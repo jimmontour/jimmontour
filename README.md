@@ -11,7 +11,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### Connect with mee:
 
 [<img align="left" alt="jimmontour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Montour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -37,8 +37,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
+### 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -63,6 +62,8 @@
   <img align="left" alt="Jim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
+<!-- Definitions -->
 
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
