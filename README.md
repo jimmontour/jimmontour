@@ -62,6 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/jimmontour/jimmontour/pull/1) in [jimmontour/jimmontour](https://github.com/jimmontour/jimmontour)
+2. 💪 Opened PR [#1](https://github.com/jimmontour/jimmontour/pull/1) in [jimmontour/jimmontour](https://github.com/jimmontour/jimmontour)
+3. 🎉 Merged PR [#2](https://github.com/jimmontour/resturant-page/pull/2) in [jimmontour/resturant-page](https://github.com/jimmontour/resturant-page)
+4. 💪 Opened PR [#2](https://github.com/jimmontour/resturant-page/pull/2) in [jimmontour/resturant-page](https://github.com/jimmontour/resturant-page)
+5. 🎉 Merged PR [#1](https://github.com/jimmontour/resturant-page/pull/1) in [jimmontour/resturant-page](https://github.com/jimmontour/resturant-page)
 <!--END_SECTION:activity-->
 
 </details>
