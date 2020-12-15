@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
+- ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
 ### Connect with me:
 
