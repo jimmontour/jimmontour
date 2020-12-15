@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
 
 ### Spotify Playing 🎧
+[<img src="https://now-playing-jimmontour.vercel.app/api/spotify-playing" alt="jimmontour Spotify Playing" width="350" />](https://open.spotify.com/user/jimmontour)
 
 [![Spotify](https://jimmontour.vercel.app/api/spotify)](https://open.spotify.com/user/jimmontour)
 
