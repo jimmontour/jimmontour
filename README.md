@@ -9,6 +9,18 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
 
+<<<<<<< HEAD
+=======
+### Spotify Playing 🎧
+[<img src="https://now-playing-jimmontour.vercel.app/api/spotify-playing" alt="jimmontour Spotify Playing" width="350" />](https://open.spotify.com/user/jimmontour)
+
+[![Spotify](https://jimmontour.vercel.app/api/spotify)](https://open.spotify.com/user/jimmontour)
+
+[![Spotify](https://novatorem-eta-weld..vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
+
+>>>>>>> 090249caf3dec506b92d0063bceb575dd29fe2fd
 ### Connect with me:
 
 [<img align="left" alt="jimmontour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,6 +79,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Jim's GitHub Stats" src="https://github-readme-stats-six-pi.vercel.app/api?username=jimmontour&show_icons=true&hide_border=true" />
+
 
 </details>
 
