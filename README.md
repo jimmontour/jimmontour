@@ -1,7 +1,5 @@
 ## Hey there, I'm Jim Montour 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?color=1da1f2&logo=Twitter&style=for-the-badge)[twitter]
-
 ### I'm a JavaScript Developer based in Buffalo, New York
 
 - 🌱 I’m currently learning React via the Odin Project
