@@ -33,21 +33,6 @@
 
 ---
 
-### :tv: Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [Test post](https://dev.to/jimmontour/test-post-1pkd)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/jimmontour)
-
----
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
