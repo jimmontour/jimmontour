@@ -9,12 +9,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people with unique characters.  It's a fantastic mess!
 
-### Spotify Playing 🎧
-
-[![Spotify](https://jimmontour.vercel.app/api/spotify)](https://open.spotify.com/user/jimmontour)
-
-
-
 ### Connect with me:
 
 [<img align="left" alt="jimmontour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
