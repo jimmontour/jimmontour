@@ -14,6 +14,8 @@
 
 [![Spotify](https://jimmontour.vercel.app/api/spotify)](https://open.spotify.com/user/jimmontour)
 
+[![Spotify](https://novatorem-eta-weld..vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 
 ### Connect with me:
