@@ -1,25 +1,23 @@
 ## Hey there, I'm Jim Montour 👋
 
-### I'm a JavaScript Developer based in Buffalo, New York
+### Now Playing:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
+### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
-### Now Playing:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
 ### Connect with me:
-
 [<img align="left" alt="jimmontour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Montour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
