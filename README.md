@@ -4,8 +4,6 @@
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
-
 ### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
