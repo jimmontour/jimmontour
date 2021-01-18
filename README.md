@@ -22,7 +22,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
 
-When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my cute/annoying 3lb. dog, Frankie:
+When not coding, I'm going on motorcycle trips with my wife, playing guitar in my surf band, and spend time with my cute/annoying 3lb. dog, Frankie.
 ![My dog Frankie](http://jimmontour.com/frankie.jpg)
 
 [website]: https://jimmontour.com
