@@ -1,6 +1,4 @@
 ### Hey there, I'm Jim Montour 👋
-
-<a class="github-button" href="https://github.com/jimmontour" aria-label="Follow @jimmontour on GitHub">Follow @jimmontour</a>)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
 
 ### I'm a JavaScript Developer based in Buffalo, New York
