@@ -6,9 +6,6 @@ I'm a JavaScript Developer based in Buffalo, New York.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
- When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my cute/annoying 3lb. dog, Frankie:
-![My dog Frankie](http://jimmontour.com/frankie.jpg)
-
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
@@ -24,6 +21,9 @@ I'm a JavaScript Developer based in Buffalo, New York.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
+
+When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my cute/annoying 3lb. dog, Frankie:
+![My dog Frankie](http://jimmontour.com/frankie.jpg)
 
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
