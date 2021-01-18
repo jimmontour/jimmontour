@@ -1,6 +1,7 @@
 ### Hey there, I'm Jim Montour 👋
 I'm a JavaScript Developer based in Buffalo, New York. When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying but lovable dogs.
-[<img align="left" alt="My dogs" src="http://jimmontour.com/dogs.jpg />]
+
+[<img align="left" alt="My dogs" width="100%" src="http://jimmontour.com/dogs.jpg />]
 
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
