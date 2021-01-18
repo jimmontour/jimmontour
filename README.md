@@ -1,6 +1,10 @@
 # Hey there, I'm Jim Montour 👋
 I'm a JavaScript Developer based in Buffalo, New York. 
 
+[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
+[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
+<br>
+
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -13,9 +17,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 :email: jimmontour@gmail.com
 
-[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
-[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
-<br>
+
 
 When not coding, I'm going on motorcycle trips, playing guitar in my surf band, and hanging out with this little baby:
 
