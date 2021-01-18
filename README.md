@@ -1,11 +1,6 @@
 ### Hey there, I'm Jim Montour 👋
+I'm a JavaScript Developer based in Buffalo, New York.  I am a Front End Developer, currently studying to become a Full Stack Developer via The Odin Project.
 
-[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
-[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
-[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
-<br>
-
-### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -14,6 +9,13 @@
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
+### Connect With Me:
+
+[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
+[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
+[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,3 +23,4 @@
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
 [linkedin]: https://linkedin.com/in/jimmontour
+
