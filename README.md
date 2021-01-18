@@ -9,12 +9,6 @@ I'm a JavaScript Developer based in Buffalo, New York.
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-### Connect With Me:
-
-[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
-[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
-[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
-<br>
 
 ### GitHub Statistics:
 
@@ -25,6 +19,14 @@ I'm a JavaScript Developer based in Buffalo, New York.
 When not coding, I'm going on motorcycle trips with my wife, playing guitar in my surf band, and spend time with Frankie, my cute/annoying 3 pound pomeranian.
 
 ![My dog, Frankie](http://jimmontour.com/frankie.jpg)
+
+### I'm always looking to work on new interesting projects, so reach out if you're looking to collaborate:
+
+[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
+[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
+[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
+<br>
+
 
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
