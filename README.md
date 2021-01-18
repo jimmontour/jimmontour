@@ -24,7 +24,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 When not coding, I'm going on motorcycle trips with my wife, playing guitar in my surf band, and spend time with Frankie, my cute/annoying 3 pound pomeranian.
 
-![My dog, Frankie](http://jimmontour.com/frankie.jpg width="100%")
+![My dog, Frankie](http://jimmontour.com/frankie.jpg)
 
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
