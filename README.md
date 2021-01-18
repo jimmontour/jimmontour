@@ -15,6 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Definitions -->
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
 [linkedin]: https://linkedin.com/in/jimmontour
