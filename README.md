@@ -1,4 +1,6 @@
-## Hey there, I'm Jim Montour 👋
+### Hey there, I'm Jim Montour 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
 
 ### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
@@ -9,10 +11,8 @@
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-### Connect With Me:
-[![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
 
-## Stats:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
