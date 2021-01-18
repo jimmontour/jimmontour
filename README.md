@@ -15,10 +15,6 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 ### I'm always looking to work on new interesting projects.  Reach out if you're looking to collaborate!
 
-:email: jimmontour@gmail.com
-
-
-
 When not coding, I'm going on motorcycle trips, playing guitar in my surf band, and hanging out with this little baby:
 
 ![My dog, Frankie](http://jimmontour.com/frankie.jpg)
