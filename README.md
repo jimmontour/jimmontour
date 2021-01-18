@@ -21,9 +21,9 @@ When not coding, I'm going on motorcycle trips, playing guitar in my surf band, 
 
 ### GitHub Statistics:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)(https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)
 
 
 
