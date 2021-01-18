@@ -17,9 +17,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][website]
-[<img align="left" alt="Jim Montour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jim Montour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
+[<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
+[<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
