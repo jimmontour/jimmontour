@@ -1,5 +1,6 @@
 ### Hey there, I'm Jim Montour 👋
-I'm a JavaScript Developer based in Buffalo, New York.  I am a Front End Developer, currently studying to become a Full Stack Developer via The Odin Project.
+I'm a JavaScript Developer based in Buffalo, New York. When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying but lovable dogs.
+[<img align="left" alt="My dogs" src="http://jimmontour.com/dogs.jpg />]
 
 - 🌱 I’m currently learning React via the Odin Project
 - 👯 I’m looking to collaborate with other developers on interesting projects
@@ -15,6 +16,8 @@ I'm a JavaScript Developer based in Buffalo, New York.  I am a Front End Develop
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
+
+### GitHub Statistics:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
