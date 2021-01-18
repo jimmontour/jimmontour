@@ -1,7 +1,7 @@
 ### Hey there, I'm Jim Montour 👋
 
-[![Website](https://img.shields.io/github/followers/jimmontour?label=Follow&style=social)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Github Follow](https://img.shields.io/github/followers/jimmontour?label=Follow&style=social)](https://www.github.com/jimmontour)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
 
 ### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
