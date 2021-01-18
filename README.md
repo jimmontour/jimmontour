@@ -5,7 +5,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
 
-- 🌱 I’m currently working on some personal React projects
+- 🌱 I’m currently working on some personal React apps
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
