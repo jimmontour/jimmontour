@@ -6,8 +6,8 @@ I'm a JavaScript Developer based in Buffalo, New York.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
- When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying 3 pound dog, Franie:
-![alt text](http://jimmontour.com/frankie.jpg)
+ When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my cute/annoying 3lb. dog, Frankie:
+![My dog Frankie](http://jimmontour.com/frankie.jpg)
 
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
