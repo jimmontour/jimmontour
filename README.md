@@ -1,4 +1,4 @@
-### Hey there, I'm Jim Montour 👋
+# Hey there, I'm Jim Montour 👋
 I'm a JavaScript Developer based in Buffalo, New York. When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying but lovable dogs.
 
 [<img align="left" alt="My dogs" width="300px" src="http://jimmontour.com/dogs.jpg />]
