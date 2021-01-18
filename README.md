@@ -16,7 +16,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
 
-When not coding, I'm going on motorcycle trips with my wife, playing guitar in my surf band, and hanging out with this little baby:
+When not coding, I'm going on motorcycle trips, playing guitar in my surf band, and hanging out with this little baby:
 
 ![My dog, Frankie](http://jimmontour.com/frankie.jpg)
 
