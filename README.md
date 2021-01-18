@@ -9,7 +9,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-### I'm always looking to work on new interesting projects, so reach out if you're looking to collaborate:
+### I'm always looking to work on new interesting projects.  Reach out if you're looking to collaborate!
 
 [<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
