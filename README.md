@@ -1,5 +1,5 @@
 # Hey there, I'm Jim Montour 👋
-I'm a JavaScript Developer based in Buffalo, New York. When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying but lovable pups.
+I'm a JavaScript Developer based in Buffalo, New York. When not coding, I love to travel with my wife, play guitar in my surf band, and spend time with my annoying 3 pound dog, Franie:
 
 ![alt text](http://jimmontour.com/frankie.jpg)
 
