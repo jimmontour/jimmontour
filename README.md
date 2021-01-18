@@ -11,23 +11,16 @@
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Definitions -->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jimmontour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jim Montour | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jim Montour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
