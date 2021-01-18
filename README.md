@@ -17,7 +17,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 When not coding, I'm going on motorcycle trips, playing guitar in my surf band, and hanging out with this little baby:
 
-![My dog, Frankie](http://jimmontour.com/frankie.jpg)
+![My dog, Frankie](http://jimmontour.com/frank.jpg)
 
 ### GitHub Statistics:
 
