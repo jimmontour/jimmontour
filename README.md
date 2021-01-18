@@ -9,8 +9,8 @@
 ## Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-## GitHub Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Stats:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Definitions -->
