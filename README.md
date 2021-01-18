@@ -1,4 +1,4 @@
-### Hey there, I'm Jim Montour 👋
+## Hey there, I'm Jim Montour 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/jimmontour?label=Follow%20Jim&style=social)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=jimmontour)
 
 ### I'm a JavaScript Developer based in Buffalo, New York
@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
-### Now Playing:
+## Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
 ## Stats:
