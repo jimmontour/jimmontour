@@ -3,6 +3,7 @@
 [<img align="left" alt="jimmontour.com" src="https://img.shields.io/badge/Website-Jim%20Montour-blue" />][website]
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
+<br>
 
 ### I'm a JavaScript Developer based in Buffalo, New York
 - 🌱 I’m currently learning React via the Odin Project
