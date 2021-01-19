@@ -25,7 +25,7 @@ When not coding, I'm going on motorcycle trips, playing guitar in my surf band, 
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://jimmontour.com
