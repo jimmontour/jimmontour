@@ -23,8 +23,6 @@ When not coding, I like to go on motorcycle trips, play guitar in my surf band, 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jimmontour&show_icons=true)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jimmontour)
-
 [website]: https://jimmontour.com
 [twitter]: https://twitter.com/jimmontour
 [linkedin]: https://linkedin.com/in/jimmontour
