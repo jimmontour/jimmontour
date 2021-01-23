@@ -15,7 +15,7 @@ I'm a JavaScript Developer based in Buffalo, New York.
 
 ### I'm always looking to work on new interesting projects.  Reach out if you're looking to collaborate!
 
-When not coding, I like to go on motorcycle trips, play guitar in my surf band, and hang out with this little baby:
+When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
 
 ![My dog, Frankie](http://jimmontour.com/frank.jpg)
 
