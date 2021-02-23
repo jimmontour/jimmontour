@@ -5,7 +5,7 @@ I'm a Web Dev based in Buffalo, New York.
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
 
-- 🌱 I’m currently learning Gatsby via @wesbos
+- 🌱 I’m currently learning Gatsby
 - 👯 I’m looking to collaborate with other developers on interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
