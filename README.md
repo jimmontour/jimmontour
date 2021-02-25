@@ -15,8 +15,7 @@ I'm a Web Dev based in Buffalo, New York.
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-### When not coding, 
-I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
+When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
 
 ![My dog, Frankie](http://jimmontour.com/frank.jpg)
 
