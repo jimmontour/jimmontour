@@ -10,13 +10,6 @@ About Me
 - 🤔 What I want to learn next: Improving my React skills with Next.js
 - 📫 How to reach me: jimmontour@gmail.com
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
-- 🔧 Tools I Like To Use
-- React
-- TypeScript
-- Gatsby
-- styled-components
-- Storybook
-- Sass
 
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
