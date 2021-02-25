@@ -5,7 +5,7 @@ I'm a Web Dev based in Buffalo, New York.
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
 
-About Me
+### About Me
 - 🔭 I’m currently working on: Portfolio projects for my website
 - 🌱 I’m currently learning: Gatby with the Master Gastby course by Wes Bos
 - 🤔 What I want to learn next: Improving my React skills with Next.js
@@ -15,7 +15,8 @@ About Me
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
+### When not coding, 
+I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
 
 ![My dog, Frankie](http://jimmontour.com/frank.jpg)
 
