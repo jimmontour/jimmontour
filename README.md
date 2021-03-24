@@ -1,4 +1,4 @@
-## 👋Hey there, I'm Jim Montour.  
+## 👋Hey there, I'm Jim Montour!
 I'm a Web Dev based in Buffalo, New York. 
 
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
