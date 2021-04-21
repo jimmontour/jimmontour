@@ -17,7 +17,7 @@ I'm a Web Dev based in Buffalo, New York.  As a self-taught developer, I'm alway
 
 When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
 
-![My dog, Frankie](https://jimmontour.dev/images/frank.jpg)
+![My dog, Frankie](https://github.com/jimmontour/portfolio/images/frank.jpg)
 
 ### GitHub Statistics:
 
