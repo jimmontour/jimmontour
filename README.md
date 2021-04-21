@@ -6,7 +6,7 @@ I'm a Web Dev based in Buffalo, New York.  As a self-taught developer, I'm alway
 <br>
 
 ### About Me
-- 🔭 I’m currently working on: Making a custom Todo list app that works with my crazy system.
+- 🔭 I’m currently working on: making a custom Todo list app that works with my crazy system.
 - 🌱 I’m currently learning: NestJS
 - 🤔 What I want to learn next: Advanced GraphQL
 - 📫 How to reach me: jimmontour@gmail.com
