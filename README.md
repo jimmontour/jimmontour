@@ -1,5 +1,5 @@
 ## 👋Hey there, I'm Jim Montour!
-I'm a Web Dev based in Buffalo, New York.  As a self-taught developer, I'm always tinkering away at new projects and learning new technologies.  I'm always open to collaboration, so if you have a project in mind, let's talk!
+I'm a Web Dev based in Buffalo, New York.  I'm always open to collaboration, so if you have a project in mind, let's talk!
 
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
