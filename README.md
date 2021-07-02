@@ -1,12 +1,12 @@
 ## 👋Hey there, I'm Jim Montour!
-I'm a freelance Web Dev based in Buffalo, New York.  I'm always open to collaboration, so if you have a project in mind, let's talk!
+I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in React, Shopify and Gatsby.   I'm always open to collaboration, so if you have a project in mind, let's talk!
 
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
 <br>
 
 ### About Me
-- 🔭 I’m currently accepting new clients for Shopify projects: [upwork]
+- 🔭 I’m currently accepting new clients for Shopify projects: [Contact Me On Upwork]
 - 🌱 I’m currently learning: Advanced Gatsby
 - 🤔 What I want to learn next: Advanced GraphQL
 - 📫 How to reach me: jimmontour@gmail.com
@@ -27,4 +27,4 @@ When not coding, I like to go on motorcycle trips, play guitar, watch horror mov
 [twitter]: https://twitter.com/jimmontour
 [linkedin]: https://linkedin.com/in/jimmontour
 [email]: mailto:jimmontour@gmail.com
-[upwork]: https://www.upwork.com/freelancers/~01f63eb03b977bebbf
+[Contact Me On Upwork]: https://www.upwork.com/freelancers/~01f63eb03b977bebbf
