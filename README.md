@@ -7,8 +7,6 @@ I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in R
 
 ### About Me
 - 🔭 I’m currently accepting new clients for Shopify projects: [Contact Me On Upwork]
-- 🌱 I’m currently learning: Advanced Gatsby
-- 🤔 What I want to learn next: Advanced GraphQL
 - 📫 How to reach me: jimmontour@gmail.com
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
 
