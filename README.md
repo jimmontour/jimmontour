@@ -1,5 +1,5 @@
 ## 👋Hey there, I'm Jim Montour!
-I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in React, Shopify and Gatsby.   I'm always open to collaboration, so if you have a project in mind, let's talk!
+I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in the MERN stack.  I'm always open to collaboration, so if you have a project in mind, let's talk!
 
 [<img align="left" alt="Jim Montour | Twitter" src="https://img.shields.io/badge/Twitter-Jim%20Montour-blue" />][twitter]
 [<img align="left" alt="Jim Montour | LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jim%20Montour-blue" />][linkedin]
@@ -13,7 +13,7 @@ I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in R
 ### Now Playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=1229681187&redirect=true)
 
-When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and hang out with this little baby:
+When not coding, I like to go on motorcycle trips, play guitar, watch horror movies, and spend time with my pup Frankie:
 
 ![My dog, Frankie](https://github.com/jimmontour/portfolio/blob/master/images/frank.jpg?raw=true)
 
