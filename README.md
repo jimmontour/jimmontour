@@ -6,6 +6,7 @@ I'm a freelance Full Stack Web Dev based in Buffalo, New York, specializing in t
 <br>
 
 ### About Me
+- 💪 Full stack dev with a focus on the MERN stack
 - 🔭 I’m currently accepting new clients for Shopify projects: [Contact Me On Upwork]
 - 📫 How to reach me: jimmontour@gmail.com
 - ⚡ Fun fact: I host a yearly New Year's Eve Murder Mystery event with over 200 people playing unique characters.  It's a fantastic mess!
